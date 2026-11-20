@@ -1,0 +1,25 @@
+# AONE Scanner
+
+> AONE Scanner is a free document scanner app for Android, made by amnLabs (an independent developer in India). It finds the edges of a page and takes the photo by itself, turns scans into PDF or JPG files, lets people draw, write and sign on pages, and makes photos and signatures at the exact pixel and KB size that exam, job, PAN, passport and visa forms ask for. Documents are processed on the phone and stay there unless the user shares them. No account, no ads, no in-app purchases.
+
+Key facts:
+
+- Name: AONE Scanner (Google Play title "AONE Scanner: PDF Doc Scan"). Publisher: amnLabs. Contact: amnlabs.official@gmail.com
+- Google Play: https://play.google.com/store/apps/details?id=com.aonescan.scanner (package com.aonescan.scanner)
+- Platform: Android 7.0 or later. Languages: English and Hindi. Price: free.
+- Not the same as other apps or developers named "AOne Scanner" (for example barcode-scanner or image-compressor apps); those come from different developers.
+- Scanning: automatic edge detection and capture, several papers in one shot, open books and passports split into pages, crop with a magnifier, Auto / Original / Grayscale / Black and white filters, reorder, retake.
+- Sharing: PDF or JPG, file size chosen before sharing (Original, Balanced, Small, or an exact limit such as 200 KB), A4, Letter or automatic page size. Imports photos and PDFs, including password-protected PDFs on Android 15 and later.
+- Markup (since version 2.1.0): pen, highlighter, pencil, two erasers, shapes, text with today's date and the user's name, lasso selection, signatures (drawn or scanned from paper, saved for reuse), stamps, logos or photos from the gallery, blank pages. In exported PDFs the ink stays vector.
+- Form-ready files: camera Signature and Photo modes with presets for IBPS, IBPS RRB, SBI PO, SBI Clerk, RBI, SSC, RRB, UPSC, India Post GDS, NEET (UG), JEE (Main), CUET (UG), PAN (Protean), passport photo (35 x 45 mm), U.S. visa, UK passport, Canada PR card, New Zealand visa and OCI card, plus a custom size.
+- Privacy: documents are never uploaded by the app; the app sends its developer no data. The page-detection model runs on Google Play services, which may send Google diagnostics (see the privacy policy).
+
+## Pages
+
+- [Home](https://amn-max.github.io/aonescanner/): what the app does, screenshots, FAQ
+- [Scan documents with your phone](https://amn-max.github.io/aonescanner/scan-documents.html): automatic edge detection and capture, several papers in one shot, books split into pages
+- [Photo and signature size for online forms](https://amn-max.github.io/aonescanner/form-photo-signature.html): pixels and KB for 21 forms and how to make the files
+- [Sign a PDF on Android without uploading it](https://amn-max.github.io/aonescanner/sign-pdf.html)
+- [A private document scanner: offline, no account, no ads](https://amn-max.github.io/aonescanner/private-scanner.html)
+- [Hindi page](https://amn-max.github.io/aonescanner/hi.html)
+- [Privacy policy](https://amn-max.github.io/aonescanner/privacy.html), [Terms](https://amn-max.github.io/aonescanner/terms.html), [Credits](https://amn-max.github.io/aonescanner/credits.html)

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://amn-max.github.io/aonescanner/</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://amn-max.github.io/aonescanner/hi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://amn-max.github.io/aonescanner/"/>
+  </url>
+  <url>
+    <loc>https://amn-max.github.io/aonescanner/hi.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://amn-max.github.io/aonescanner/hi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://amn-max.github.io/aonescanner/"/>
+  </url>
+  <url><loc>https://amn-max.github.io/aonescanner/scan-documents.html</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/form-photo-signature.html</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/sign-pdf.html</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/private-scanner.html</loc><lastmod>2026-11-20</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/privacy.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/terms.html</loc><lastmod>2026-11-19</lastmod></url>
+  <url><loc>https://amn-max.github.io/aonescanner/credits.html</loc><lastmod>2026-11-20</lastmod></url>
+</urlset>
